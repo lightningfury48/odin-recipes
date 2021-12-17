@@ -1,2 +1,2 @@
-# odin-recipes
-fdsfdsa
+# odin-recipe
+I dont have a favorite 
